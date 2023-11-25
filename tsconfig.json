@@ -3,7 +3,7 @@
     /* Language and Environment */
     "target": "ES5",
     "lib": ["DOM", "ES2015", "ES2016", "ES2017"],
-    "outDir": "./public" /* Specify an output folder for all emitted files. */,
+    "outDir": "./docs" /* Specify an output folder for all emitted files. */,
     "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */,
     "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
     /* Type Checking */
